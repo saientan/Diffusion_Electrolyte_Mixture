@@ -36,4 +36,5 @@ This Wano takes the MD trajectory from the Gromacs production run and calculate 
 
 This Wano just collects all the data and prepares a mixing  ratio (x) vs diffusion coefficient (D) plot for both A and B. 
 
+![image10](https://user-images.githubusercontent.com/51357825/165963219-4b501c5b-4a4f-4d9f-be89-2202009ea9f1.png)
 
