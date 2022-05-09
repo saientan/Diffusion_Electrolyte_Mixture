@@ -2,7 +2,9 @@
 
 
 Here, we design a workflow to calculate the diffusion coefficient  of Electrolytes in a mixture. At the moment the workflow only runs for binary mixture with components in a mixture can be chosen from the following set of Electrolytes and Water 
-Ethanol (2) Ethylene_Sulfate (3)Ethylene_Carbonate (4) Ethylene_Methyl_Carbonate(5) Diethyl_Carbonate (6)Dimethyl_Carbonate (7)Benzodioxathiole_dioxide(8)FluroEthylene_Carbonate(9)Dicyanoketene_Ethylene_Acetal (10) Water
+
+
+(1)Ethanol (2) Ethylene_Sulfate (3)Ethylene_Carbonate (4) Ethylene_Methyl_Carbonate(5) Diethyl_Carbonate (6)Dimethyl_Carbonate (7)Benzodioxathiole_dioxide(8)FluroEthylene_Carbonate(9)Dicyanoketene_Ethylene_Acetal (10) Water
 
 Here, we combine mainly three different wanos (which are used multiple times): 
 (A) Wanos for simple bash/python script : (i)My Script,(ii) Postprocess, and (ii)Script.
